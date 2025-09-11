@@ -1,4 +1,4 @@
-![MasterHead]
+!ThinkDifferent
 
 
 <h1 align="center">Hi 👋, I'm Benjamin Dominique</h1>
