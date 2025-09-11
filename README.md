@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **LocalliSus**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, REACTJS, NODEJS, C#, ASP.NET, PYTHON, DJANGO, GOLANG,MYSQL, DOCKER, AWS, ARDUINO**
+- 🌱 I’m currently learning **HTML, CSS, JS, REACTJS, NODEJS, C#, ASP.NET, PYTHON, JAVA, DJANGO,MYSQL, AWS, ARDUINO, and Fundamentals of Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Itau**
+- 👯 I’m looking to collaborate on **ESA**
 
 - 🤝 I’m looking for help with **LocalliSus**
 
