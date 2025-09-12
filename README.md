@@ -1,7 +1,7 @@
 !ThinkDifferent
 
 
-<h1 align="center">Hi 👋, I'm Benjamin Dominique</h1>
+<h1 align="center">Hi 👋, I'm Benjamin Dominique 🇨🇩 🇧🇷 </h1>
 
 
 <div align="center">
