@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+J%C3%BAlia+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="50%" />
   </a>
   <br>
-  <a href="benbenjamim936@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:benbenjamim936@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
   <a href="https://www.linkedin.com/in/benjamin-dominique-53aa93308" alt="Linkedin" target="_blank">
