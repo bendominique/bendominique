@@ -11,7 +11,7 @@
   <a href="benbenjamim936@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 
-  <a href="https://linkedin.com/in/benjamin-dominique-makangwa" alt="Linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/benjamin-dominique-makangwa](https://www.linkedin.com/in/benjamin-dominique-53aa93308)" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 <h2></h2>
