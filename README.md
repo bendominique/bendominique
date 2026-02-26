@@ -27,7 +27,7 @@
   </p>  
   <p>  
   <h3><strong> 📖 Currently Studying </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,arduino,nodejs,react,django,ts,go,cs&theme=dark" width="35%">   
+  <img src="https://skillicons.dev/icons?i=java,arduino,nodejs,react,django,ts,go,kotlin,cs&theme=dark" width="35%">   
   </p> 
  </div> 
  
