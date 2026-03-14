@@ -33,7 +33,7 @@
  
  <div align="center">
   <br><h2></h2><br>
-github-readme-stats.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight
+<img github-readme-stats.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight/>
  </div>
  
 <br><h2></h2><br>
