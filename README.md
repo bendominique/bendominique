@@ -33,7 +33,7 @@
  
  <div align="center">
   <br><h2></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=bendominique&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <img height="180em" src="https://camo.githubusercontent.com/078b52a2f64f7e19ce34e77191fdd4524b3dc31e0b5d47c2c53b538a54f05f9b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4875676f476f6d65733132266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendominique&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
  </div>
  
 <br><h2></h2><br>
