@@ -32,11 +32,7 @@
  </div> 
  
  <div align="center">
-  <br><h2></h2><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight"/>
- </div>
- 
-<br><h2></h2><br>
+ <br>
 
 <div align="center"> 
 
