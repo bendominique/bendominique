@@ -40,9 +40,9 @@
 
 <div align="center"> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=bendominique&theme=radical&show_icons=true&count_private=true" width="46%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bendominique&theme=radical&show_icons=true&count_private=true" width="46%" />
 
-<img src="https://streak-stats.demolab.com?user=bendominique&theme=radical&border_radius=4.7" width="51%" />
+<img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="51%" />
 
 </div>
 <br>
