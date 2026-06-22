@@ -23,11 +23,11 @@
 <div align="left">
   <p>
   <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=dotnet,java,cs,html,css,figma,javascript,mysql,rust,linux" width="35%">
+  <img src="https://skillicons.dev/icons?i=dotnet,java,cs,django,react,figma,javascript,mysql,rust,linux" width="35%">
   </p>  
   <p>  
   <h3><strong> 📖 Currently Studying </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,arduino,nodejs,react,django,ts,go,cpp,kotlin,cs&theme=dark" width="35%">   
+  <img src="https://skillicons.dev/icons?i=java,arduino,nodejs,ts,go,cpp,kotlin,cs&theme=dark" width="35%">   
   </p> 
  </div> 
  
