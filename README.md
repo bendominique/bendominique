@@ -1,7 +1,7 @@
 !ThinkDifferent
 
 
-<h1 align="center">Hi 👋, I'm Benjamin Dominique. AppSec Student 🇨🇩 🇧🇷 </h1>
+<h1 align="center">Hi 👋, I'm Benjamin Dominique. 🇨🇩 🇧🇷 </h1>
 
 
 <div align="center">
@@ -41,7 +41,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bendominique&theme=radical&show_icons=true&count_private=true" width="46%" />
 
 <img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="51%" />
-
+<p> I'm an AppSec Student</p>
 </div>
 <br>
 
