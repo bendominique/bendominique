@@ -29,16 +29,6 @@ Web development
 Networking
 
 Cybersecurity
-┌─────────────────────────────────────┐
-│          CYBERSECURITY              │
-├─────────────────────────────────────┤
-│  🔎 Security Fundamentals           │
-│  🌐 Network Security                │
-│  🐧 Linux & Systems                 │
-│  🔑 Authentication & Access Control │
-│  🛡️ Defensive Security              │
-│  🧪 Ethical Hacking Fundamentals    │
-└─────────────────────────────────────┘
 
 🛠️ Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=arch,linux,java,kotlin,dotnet,django,react,javascript,mysql,rust" /> </p>
