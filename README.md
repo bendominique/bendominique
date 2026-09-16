@@ -60,11 +60,7 @@ My current interests are:
 
 <div align="center">
 
-  <img
-    src="https://mir-s3-cdn-cf.behance.net/project_modules/source/59125532665771.568e834726d74.gif"
-    alt="coding cat"
-    width="60%"
-  >
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/59125532665771.568e834726d74.gif"/>
 
 </div>
 
