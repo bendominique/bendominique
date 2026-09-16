@@ -21,6 +21,6 @@ Focus:
 Computer Science · Networking · Cybersecurity · Linux 
 
 📊 GitHub
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight" width="42%"> <img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="48%"> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="48%"> </p>
 <div align="center">
 > ThinkDifferent
