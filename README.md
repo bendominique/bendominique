@@ -30,8 +30,7 @@
   <img src="https://skillicons.dev/icons?i=java,arduino,nodejs,ts,go,cpp,cs&theme=dark" width="35%">   
   </p> 
  </div> 
- 
- <div align="center">
+ <div class="tenor-gif-embed" data-postid="27266616" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/yetopen-gif-27266616">Yetopen GIF</a>from <a href="https://tenor.com/search/yetopen-gifs">Yetopen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  <br>
 
 <div align="center"> 
