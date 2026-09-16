@@ -1,50 +1,64 @@
-!ThinkDifferent
+<h1 align="center">Hi 👋, I'm Benjamin Dominique 🇨🇩 🇧🇷</h1> <p align="center"> <strong>Computer Science Student</strong> · <strong>Cybersecurity</strong> · <strong>Networking</strong> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Cybersecurity+%26+Networking;Building.+Learning.+Breaking.+Securing.;Think+Different." /> </a> </p> <p align="center"> <a href="mailto:benbenjamim936@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"> </a> <a href="https://www.linkedin.com/in/benjamin-dominique-53aa93308"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
+🧠 About Me
+Computer Science
+       │
+       ├── Software Development
+       │
+       ├── Systems & Linux
+       │
+       ├── Networking
+       │
+       └── Cybersecurity
 
 
-<h1 align="center">Hi 👋, I'm Benjamin Dominique. 🇨🇩 🇧🇷 </h1>
+I'm a Computer Science student interested in understanding technology
+from software and operating systems to networks and security.
 
+Think Different. Build Different.
 
+💻 Computer Science
+<p> <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,go,rust,python,javascript,typescript" /> </p>
+
+Software development
+
+Algorithms & data structures
+
+Object-oriented programming
+
+Systems programming
+
+Web development
+
+🌐 Networking
+<p> <img src="https://skillicons.dev/icons?i=linux,arch" /> </p>
+TCP/IP        DNS
+HTTP/HTTPS    SSH
+Routing       Switching
+Firewalls     Linux Networking
+
+🔐 Cybersecurity
+┌─────────────────────────────────────┐
+│          CYBERSECURITY              │
+├─────────────────────────────────────┤
+│  🔎 Security Fundamentals           │
+│  🌐 Network Security                │
+│  🐧 Linux & Systems                 │
+│  🔑 Authentication & Access Control │
+│  🛡️ Defensive Security              │
+│  🧪 Ethical Hacking Fundamentals    │
+└─────────────────────────────────────┘
+
+🛠️ Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=arch,linux,java,kotlin,dotnet,django,react,javascript,mysql,rust" /> </p>
+📚 Currently Learning
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,go,cs,typescript,arduino" /> </p>
+
+Focus:
+
+Computer Science · Networking · Cybersecurity · Linux · Systems
+
+📊 GitHub
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight" width="42%"> <img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="48%"> </p>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+%C3%Benjamin+:);Welcome+to+my+Github+page+:)" />
-  </a>
-  <br>
-  <a href="mailto:benbenjamim936@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-
-  <a href="https://www.linkedin.com/in/benjamin-dominique-53aa93308" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
-<h2></h2>
-  <br>
-  
-<img align="right" src="https://assets.b9.com.br/wp-content/uploads/2015/08/kuat-gif.gif" alt="coding cat" width="50%">
-
-
-<div align="left">
-  <p>
-  <h3><strong> 💻 My Skills </strong> </h3>
-  <img src="https://skillicons.dev/icons?i=dotnet,java,kotlin,django,react,javascript,mysql,rust,linux" width="35%">
-  </p>  
-  <p>  
-  <h3><strong> 📖 Currently Studying </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,arduino,nodejs,ts,go,cpp,cs&theme=dark" width="35%">   
-  </p> 
- </div> 
-
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight)
-
-
-<img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="51%" />
-</div>
-<br>
-
-<div class="tenor-gif-embed" data-postid="27266616" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-  <a href="https://tenor.com/view/yetopen-gif-27266616">Yetopen GIF</a>from <a href="https://tenor.com/search/yetopen-gifs">Yetopen GIFs</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-<!---
-bendominique/bendominique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> ThinkDifferent
+</div> <br> <div align="center"> <img src="https://assets.b9.com.br/wp-content/uploads/2015/08/kuat-gif.gif" alt="coding cat" width="420"> </div> <!--- bendominique/bendominique is a ✨ special ✨ repository because this README appears on your GitHub profile. --->
