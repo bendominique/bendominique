@@ -38,7 +38,7 @@ My current interests are:
 ## 💻 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,studio,cs,go,rust,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,kotlin,sql,cs,go,rust,python,javascript,typescript" />
 </p>
 
 ---
