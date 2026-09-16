@@ -16,25 +16,6 @@ Think Different.
 
 <p> <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,go,rust,python,javascript,typescript" /> </p>
 
-Software development
-
-Algorithms & data structures
-
-Object-oriented programming
-
-Systems programming
-
-Web development
-
-Networking
-
-Cybersecurity
-
-Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=,linux,java,kotlin,dotnet,django,react,javascript,mysql,rust" /> </p>
-📚 Currently Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,go,cs,typescript,arch, arduino" /> </p>
-
 Focus:
 
 Computer Science · Networking · Cybersecurity · Linux 
