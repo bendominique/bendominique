@@ -9,7 +9,7 @@ Think Different.
   <img
     src="https://assets.b9.com.br/wp-content/uploads/2015/08/kuat-gif.gif"
     alt="coding cat"
-    width="420"
+    width="1820"
   >
 </div>
 
