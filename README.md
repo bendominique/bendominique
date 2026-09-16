@@ -5,8 +5,14 @@ I'm a Computer Science student interested in understanding technology
 from software and operating systems to networks and security.
 
 Think Different.
+<div align="center">
+  <img
+    src="https://assets.b9.com.br/wp-content/uploads/2015/08/kuat-gif.gif"
+    alt="coding cat"
+    width="420"
+  >
+</div>
 
-<div align="center"> <img src="https://assets.b9.com.br/wp-content/uploads/2015/08/kuat-gif.gif](https://mir-s3-cdn-cf.behance.net/project_modules/source/59125532665771.568e834726d74.gif)" alt="coding cat" width="420"
 
 <p> <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,go,rust,python,javascript,typescript" /> </p>
 
