@@ -61,4 +61,4 @@ Computer Science · Networking · Cybersecurity · Linux · Systems
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight" width="42%"> <img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="48%"> </p>
 <div align="center">
 > ThinkDifferent
-</div> <br> <div align="center"> <img src="https://assets.b9.com.br/wp-content/uploads/2015/08/kuat-gif.gif" alt="coding cat" width="420"> </div> <!--- bendominique/bendominique is a ✨ special ✨ repository because this README appears on your GitHub profile. --->
+</div> <br> <div align="center"> <img src="[https://assets.b9.com.br/wp-content/uploads/2015/08/kuat-gif.gif](https://mir-s3-cdn-cf.behance.net/project_modules/source/59125532665771.568e834726d74.gif)" alt="coding cat" width="420"> </div> <!--- bendominique/bendominique is a ✨ special ✨ repository because this README appears on your GitHub profile. --->
