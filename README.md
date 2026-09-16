@@ -31,7 +31,7 @@ from software and operating systems to networks and security.
 
 My current interests are:
 
-`Computer Science` · `Networking` · `Cybersecurity` · `Linux`
+`Computer Science` · `Networking` · `Cybersecurity` · `Linux`· `Math`· `Physics`
 
 ---
 
