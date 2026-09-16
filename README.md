@@ -9,7 +9,7 @@ Think Different.
   <img
     src="https://assets.b9.com.br/wp-content/uploads/2015/08/kuat-gif.gif"
     alt="coding cat"
-    width="1820"
+    width="60%"
   >
 </div>
 
@@ -26,14 +26,9 @@ Systems programming
 
 Web development
 
-🌐 Networking
-<p> <img src="https://skillicons.dev/icons?i=linux,arch" /> </p>
-TCP/IP        DNS
-HTTP/HTTPS    SSH
-Routing       Switching
-Firewalls     Linux Networking
+Networking
 
-🔐 Cybersecurity
+Cybersecurity
 ┌─────────────────────────────────────┐
 │          CYBERSECURITY              │
 ├─────────────────────────────────────┤
@@ -52,7 +47,7 @@ Firewalls     Linux Networking
 
 Focus:
 
-Computer Science · Networking · Cybersecurity · Linux · Systems
+Computer Science · Networking · Cybersecurity · Linux 
 
 📊 GitHub
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight" width="42%"> <img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="48%"> </p>
