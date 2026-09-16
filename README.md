@@ -30,10 +30,10 @@ Networking
 
 Cybersecurity
 
-🛠️ Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=arch,linux,java,kotlin,dotnet,django,react,javascript,mysql,rust" /> </p>
+Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=,linux,java,kotlin,dotnet,django,react,javascript,mysql,rust" /> </p>
 📚 Currently Learning
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,go,cs,typescript,arduino" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,go,cs,typescript,arch, arduino" /> </p>
 
 Focus:
 
