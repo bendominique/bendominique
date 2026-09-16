@@ -30,10 +30,7 @@
   <img src="https://skillicons.dev/icons?i=java,arduino,nodejs,ts,go,cpp,cs&theme=dark" width="35%">   
   </p> 
  </div> 
- <div class="tenor-gif-embed" data-postid="27266616" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/yetopen-gif-27266616">Yetopen GIF</a>from <a href="https://tenor.com/search/yetopen-gifs">Yetopen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- <br>
 
-<div align="center"> 
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bendominique&layout=compact&theme=tokyonight)
 
@@ -41,6 +38,8 @@
 <img src="https://streak-stats.demolab.com?user=bendominique&theme=radical" width="51%" />
 </div>
 <br>
+
+<div class="tenor-gif-embed" data-postid="27266616" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/yetopen-gif-27266616">Yetopen GIF</a>from <a href="https://tenor.com/search/yetopen-gifs">Yetopen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></div>
 
 <!---
 bendominique/bendominique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
